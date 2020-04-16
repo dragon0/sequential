@@ -1,0 +1,2 @@
+# sequential
+Simple MIDI Sequencer
